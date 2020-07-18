@@ -1,3 +1,4 @@
+
 body{
     padding:50px 0px 0px 0px;
     z-index:0;
@@ -65,4 +66,20 @@ address{
     position: absolute;
     bottom: 0px;
     z-index: 1;
+}
+
+.mymodal-header{
+    background-color: #512DA8;
+    color: #ddd;
+    font-weight: bold;
+
+}
+
+.mymodal-body{
+    background-color:#D1C4E9;
+    font-weight: bold;
+}
+
+.close:hover{
+    background-color: #ddd;
 }
